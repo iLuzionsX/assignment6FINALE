@@ -31,14 +31,14 @@ AnimationClip:
         time: 0.8333333
         value: {x: 0, y: -0.78, z: 0}
         inSlope: {x: 0, y: -2.3785238, z: 0}
-        outSlope: {x: 0, y: 2.3845613, z: 0}
+        outSlope: {x: 0, y: 0.75223994, z: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.06088549, z: 0.33333334}
-        outWeight: {x: 0.33333334, y: 0.058134794, z: 0.33333334}
+        outWeight: {x: 0.33333334, y: 0.49499017, z: 0.33333334}
       - serializedVersion: 3
         time: 1
-        value: {x: 0, y: -1.08, z: 0}
+        value: {x: 0, y: -2.04, z: 0}
         inSlope: {x: 0, y: -2.3785238, z: 0}
         outSlope: {x: 0, y: 2.3845613, z: 0}
         tangentMode: 0
@@ -48,11 +48,11 @@ AnimationClip:
       - serializedVersion: 3
         time: 1.1666666
         value: {x: 0, y: -0.78, z: 0}
-        inSlope: {x: 0, y: -2.3785238, z: 0}
+        inSlope: {x: 0, y: -0.8031384, z: 0}
         outSlope: {x: 0, y: 2.3845613, z: 0}
         tangentMode: 0
         weightedMode: 0
-        inWeight: {x: 0.33333334, y: 0.06088549, z: 0.33333334}
+        inWeight: {x: 0.33333334, y: 0.5190376, z: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.058134794, z: 0.33333334}
       - serializedVersion: 3
         time: 2
@@ -218,14 +218,14 @@ AnimationClip:
         time: 0.8333333
         value: -0.78
         inSlope: -2.3785238
-        outSlope: 2.3845613
+        outSlope: 0.75223994
         tangentMode: 1
         weightedMode: 0
         inWeight: 0.06088549
-        outWeight: 0.058134794
+        outWeight: 0.49499017
       - serializedVersion: 3
         time: 1
-        value: -1.08
+        value: -2.04
         inSlope: -2.3785238
         outSlope: 2.3845613
         tangentMode: 1
@@ -235,11 +235,11 @@ AnimationClip:
       - serializedVersion: 3
         time: 1.1666666
         value: -0.78
-        inSlope: -2.3785238
+        inSlope: -0.8031384
         outSlope: 2.3845613
         tangentMode: 1
         weightedMode: 0
-        inWeight: 0.06088549
+        inWeight: 0.5190376
         outWeight: 0.058134794
       - serializedVersion: 3
         time: 2
